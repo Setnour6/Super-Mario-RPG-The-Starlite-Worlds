@@ -1,0 +1,7 @@
+How to Install:
+
+- Right click on each of the fonts and select "install"
+
+or
+
+- copy the three font files into your Windows/fonts folder.
